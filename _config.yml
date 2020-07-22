@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: RIDHI REBUTS
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: The truth has one color but a lie has many
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://instagram.fbbi1-1.fna.fbcdn.net/v/t51.2885-19/s320x320/75208790_276115360126256_1546028648217429830_n.jpg?_nc_ht=instagram.fbbi1-1.fna.fbcdn.net&_nc_ohc=YeCH32IGAAwAX_WGJT1&oh=9c10cba814ecc8e8a0f299a761df4b2a&oe=5F41B53F
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: 
+  instagram: ridhi.rebuts
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
