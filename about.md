@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Hey! Here's a brief introduction to what I do:
+title: About
 permalink: /about/
 ---
 
-
+### Hey! Here's a brief introduction to what I do:
 
 
 The aim of this account is to provide the truth. We live in a world where information recognises no geographical boundaries, where one can live in India and read about the Western narrative of Indian affairs – which is often lacking in any real understanding. We live in a world where most Indian news outlets are dedicated to the "left" and the "right" – making the news increasingly polarised. We live in a world where misinformation spreads far faster than the truth –- making it increasingly difficult to know what is real and what is not. 
