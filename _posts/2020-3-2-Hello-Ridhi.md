@@ -31,4 +31,3 @@ This is a checklist
  - [ ] as 
  - [ ] you can
 
- ![Your Best FRIEND](https://thetempest.co/wp-content/uploads/2017/11/Untitled-design-7-96x96.png)*youer best friend*
