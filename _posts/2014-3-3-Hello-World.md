@@ -2,7 +2,7 @@
 layout: post
 title: Religious Persecution in Pakistan
 ---
-3rd March 2014
+
 In his first speech before the members of the Constituent Assembly of Pakistan in 1947, Mohammad Ali Jinnah said that non-Muslims would be equal citizens in the new country and that every person living in the country would be an equal citizen, irrespective of his or her community, caste, colour, or faith. History is witness to the fact that what Jinnah said was not even remotely accurate as to what would happen.
 
 
