@@ -1,6 +1,6 @@
 ---
-title: My Portfolio
-permalink: /portfolio/
+title: Recommended Reada
+permalink: /recommend/
 layout: page
 sitemap: false 
 ---
