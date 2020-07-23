@@ -1,5 +1,5 @@
 ---
-title: Recommended Reada
+title: Recommended Reads
 permalink: /recommend/
 layout: page
 sitemap: false 
