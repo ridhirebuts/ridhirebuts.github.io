@@ -6,4 +6,4 @@ categories: [Recmomend]
 
 ---
 
-use [ recommend category]
+use recommend category
