@@ -1,7 +1,7 @@
 ---
 title: Recommended Reads
 permalink: /recommend/
-layout: page
+layout: default
 
 ---
 <div>
