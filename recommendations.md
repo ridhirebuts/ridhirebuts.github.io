@@ -4,8 +4,6 @@ permalink: /recommend/
 layout: page
 
 ---
-
-This is a placeholder page for my recom.
 <div>
     {% assign categories = site.categories | sort %}
     {% for category in categories %}
