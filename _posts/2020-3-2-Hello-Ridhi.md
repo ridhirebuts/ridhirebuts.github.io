@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I wrote this post at the same time XD
-date: 2020-3-2
+
 ---
 
 
