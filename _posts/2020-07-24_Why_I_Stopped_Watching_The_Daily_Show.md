@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I Stopped Watching The Daily Show with Trevor Noah 
+title: Why I Stopped Watching The Daily Show with Trevor Noah
 ---
 
 I’ll start out with this: My whole life, I was surrounded by a lot of Western influences. I watched Disney Channel, American sitcoms, I read (and actually still read) the BBC and New York Times religiously (although I don’t always agree with what they say) and the Western media has played a very large role in shaping how I approach things. As much as I now despise the New York Times’ reporting, I would argue that I learnt a lot from their former works and the same goes for a lot of other Western media outlets as well – perhaps that’s why I still read their works daily. I do sincerely hope that American journalism will bounce back and the New York Times and The Washington Post could get back to that point when they didn’t just write to appeal to the lowest common denominator.
