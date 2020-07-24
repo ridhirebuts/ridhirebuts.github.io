@@ -1,10 +1,14 @@
 ---
 title: Recommended Reads
 permalink: /recommend/
-layout: default
+layout: page
 
 ---
-<div>
+ <blockquote class="embedly-card"><h4><a href="https://ridhirebuts.github.io/WhyIStoppedWatchingTheDailyShow/">Why I Stopped Watching The Daily Show with Trevor Noah</a></h4><p>I'll start out with this: My whole life, I was surrounded by a lot of Western influences. I watched Disney Channel, American sitcoms, I read (and actually still read) the BBC and New York Times religiously (although I don't always agree with what they say) and the Western media has played a very large role in shaping how I approach things.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+<!-- <div>
     {% assign categories = site.categories | sort %}
     {% for category in categories %}
 <!--         <span class="site-tag">
@@ -15,8 +19,7 @@ layout: default
     {% endfor %}
 </div>
 <div id="index">
-    <blockquote class="embedly-card"><h4><a href="https://ridhirebuts.github.io/WhyIStoppedWatchingTheDailyShow/">Why I Stopped Watching The Daily Show with Trevor Noah</a></h4><p>I'll start out with this: My whole life, I was surrounded by a lot of Western influences. I watched Disney Channel, American sitcoms, I read (and actually still read) the BBC and New York Times religiously (although I don't always agree with what they say) and the Western media has played a very large role in shaping how I approach things.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+   
     {% for category in categories %}
 <!--         <a name="{{ category[0] }}"></a>
         <h2>{{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})</h2> -->
@@ -44,4 +47,4 @@ layout: default
             {%endif%}
         {% endfor %}
     {% endfor %}
-</div>
+</div> -->
