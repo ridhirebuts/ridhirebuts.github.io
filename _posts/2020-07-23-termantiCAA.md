@@ -4,9 +4,6 @@ title: The Term "Anti-CAA"
 ---
 
 Shalom.
-
-  
-
 I am not here to inform you on the CAA, its pros, its cons or the controversies surrounding it. I am presently writing about it, and I will share my findings with you in due time. Today, I just want to talk about the term "Anti-CAA".
 
   
