@@ -12,38 +12,4 @@ I am Ridhi. Kashmiri and a freelance journalist studying Cultural Studies and li
 ### Contact me
 
 [@ridhi.rebuts](https://www.instagram.com/ridhi.rebuts/)
-<script>
-  var $form = $('form#test-form'),
-    url = 'https://script.google.com/macros/s/AKfycbx2grdWQDw40IiqmaCAN55Lj2ezYsL5dKCIrw9wR04fKCoSyYC_/exec'
 
-$('#submit-form').on('click', function(e) {
-  e.preventDefault();
-  var jqxhr = $.ajax({
-    url: url,
-    method: "GET",
-    dataType: "json",
-    data: $form.serializeObject()
-  }).success(
-    // do something
-  );
-})
-  </script>
-<form id="test-form">
-  
-  <div>
-    <label>Field 1</label>
-    <input type="text" name="email" placeholder="Field 1"/>
-  </div>
-
-  <div>
-    <label>Field 2</label>
-    <input type="text" name="name" placeholder="Field 2"/>
-  </div>
-  
-
-  <div>
-    <button type="submit"id="submit-form">Submit</button>
-  </div>
-
-
-</form>
