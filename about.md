@@ -12,8 +12,10 @@ I am Ridhi. Kashmiri and a freelance journalist studying Cultural Studies and li
 ### Contact me
 
 [@ridhi.rebuts](https://www.instagram.com/ridhi.rebuts/)
+
+### Drop Me a Line, Let Me Know What You Think
 <form name="submit-to-google-sheet" >
-      <div class="container">
+      <div class="containeroffeedback">
     
 <table id="wrapperax">
   <tr  id="clearfix">
@@ -76,7 +78,7 @@ I am Ridhi. Kashmiri and a freelance journalist studying Cultural Studies and li
 }
 
 /* Add padding to container elements */
- .container {
+ .containeroffeedback {
   padding-top: 16px;
 }
 
