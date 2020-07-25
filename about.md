@@ -14,24 +14,24 @@ I am Ridhi. Kashmiri and a freelance journalist studying Cultural Studies and li
 [@ridhi.rebuts](https://www.instagram.com/ridhi.rebuts/)
 <form name="submit-to-google-sheet" >
       <div class="container">
-   
+    
 <table id="wrapperax">
   <tr  id="clearfix">
-    <td> <input type="email"  id="email" placeholder="Your Email Address" name="email" required></td>
-   
+    <td> <input  class ="forminputax" type="text" placeholder="Name" name="name" ></td>
   </tr>
+  <tr id="clearfixtwo"> 
+    <td> <textarea  rows="5" class ="forminputax" type="text"  id="email" placeholder="Your Message" name="message" required></textarea>
+    </td>
+    </tr>
   <tr >
     <td >  
         <div>
          
-          <button  id="axbutton" type="submit">Subscribe</button>
+          <button  id="axbutton" type="submit">Submit</button>
         </div></td>
   
   </tr>
 </table>
-   
-       
-    
       </div>
   
 
@@ -41,15 +41,17 @@ I am Ridhi. Kashmiri and a freelance journalist studying Cultural Studies and li
 #wrapperax{
     width: 100%;
 }
-#email {
+.forminputax{
   width: 100%;
   padding: 15px;
   margin: 5px 0 22px 0;
   display: inline-block;
   border: none;
   background: #f1f1f1;
+  resize: none;
+  font-family: inherit;
 }
-#email:focus {
+.forminputax:focus {
   background-color: #ddd;
   outline: none;
 }
@@ -75,7 +77,7 @@ I am Ridhi. Kashmiri and a freelance journalist studying Cultural Studies and li
 
 /* Add padding to container elements */
  .container {
-  padding: 16px;
+  padding-top: 16px;
 }
 
 /* Clear floats */
@@ -94,7 +96,7 @@ I am Ridhi. Kashmiri and a freelance journalist studying Cultural Studies and li
 <script src="https://wzrd.in/standalone/promise-polyfill@latest"></script>
 <script src="https://wzrd.in/standalone/whatwg-fetch@latest"></script>
   <script>
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbx2grdWQDw40IiqmaCAN55Lj2ezYsL5dKCIrw9wR04fKCoSyYC_/exec'
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzwKpDbgyX_PUQGfPxM3pUCXFlXuTXYdfOiL5j-_W2xR7U4arNG/exec'
     const form = document.forms['submit-to-google-sheet']
  
   
@@ -103,8 +105,9 @@ I am Ridhi. Kashmiri and a freelance journalist studying Cultural Studies and li
       fetch(scriptURL, { method: 'POST', body: new FormData(form)})
         .then(response =>console.log('Success!', response),document.getElementById('email').value = "",
               document.getElementById('clearfix').style.visibility = "collapse",
-             document.getElementById('axbutton').innerHTML = "Thank You! Successfully  Subscribed ",
-                  document.getElementById('axbutton').disabled = true)
+             document.getElementById('axbutton').innerHTML = "Thank You! Successfully  Sent ",
+                  document.getElementById('axbutton').disabled = true,
+                         document.getElementById('clearfixtwo').style.visibility = "collapse")
         .catch(error => console.error('Error!', error.message))
     })
   </script>
