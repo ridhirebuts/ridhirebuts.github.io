@@ -2,21 +2,34 @@
 layout: default
 ---
 <form name="submit-to-google-sheet"  style="border:1px solid #ccc">
-    <div class="container">
+      <div class="container">
    
-
+<table id="wrapperax">
+  <tr  id="clearfix">
+    <td> <input type="email"  id="email" placeholder="Enter Email" name="email" required></td>
    
-        <input type="email"  id="email" placeholder="Enter Email" name="email" required>
-    
-        <div class="clearfix">
+  </tr>
+  <tr >
+    <td >  
+        <div>
          
           <button  id="axbutton" type="submit">Subscribe</button>
-        </div>
+        </div></td>
+  
+  </tr>
+</table>
+   
+       
+    
       </div>
   
 
   </form>
 <style>
+    
+#wrapperax{
+    width: 100%;
+}
 #email {
   width: 100%;
   padding: 15px;
@@ -77,7 +90,10 @@ layout: default
     form.addEventListener('submit', e => {
       e.preventDefault()
       fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-        .then(response =>console.log('Success!', response),document.getElementById('email').value = "" )
+        .then(response =>console.log('Success!', response),document.getElementById('email').value = "",
+              document.getElementById('clearfix').style.visibility = "collapse",
+             document.getElementById('axbutton').innerHTML = "Thank You! Successfully  Subscribed ",
+                  document.getElementById('axbutton').disabled = true)
         .catch(error => console.error('Error!', error.message))
     })
   </script>
