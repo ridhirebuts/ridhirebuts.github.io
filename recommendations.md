@@ -5,25 +5,8 @@ layout: default
 
 ---
 
-<div class="posts">
-  {% for linker in site.linker %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="date">
-    {{ post.date | date: "%B %e, %Y" }}
-      </div>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
-
+<blockquote class="embedly-card"><h4><a href="https://ridhirebuts.github.io/Religious-persecution-in-pakistan/">Religious Persecution in Pakistan</a></h4><p>In his first speech before the members of the Constituent Assembly of Pakistan in 1947, Mohammad Ali Jinnah said that non-Muslims would be equal citizens in the new country and that every person living in the country would be an equal citizen, irrespective of his or her community, caste, colour, or faith.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 
 
