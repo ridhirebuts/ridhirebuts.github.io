@@ -1,3 +1,9 @@
+---
+layout: post
+title: Clarification and Understanding Hinduism & Pride Post 1
+---
+
+
 A very warm hello to all of you.
 
   
