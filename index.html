@@ -4,7 +4,6 @@ layout: default
 <script>
   var $form = $('form#test-form'),
     url = 'https://script.google.com/macros/s/AKfycbx2grdWQDw40IiqmaCAN55Lj2ezYsL5dKCIrw9wR04fKCoSyYC_/exec'
-
 $('#submit-form').on('click', function(e) {
   e.preventDefault();
   var jqxhr = $.ajax({
@@ -13,6 +12,7 @@ $('#submit-form').on('click', function(e) {
     dataType: "json",
     data: $form.serializeObject()
   }).success(
+    print('done')
     // do something
   );
 })
