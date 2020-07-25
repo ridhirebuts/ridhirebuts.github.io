@@ -25,6 +25,9 @@ I am Ridhi. Kashmiri and a freelance journalist studying Cultural Studies and li
   </div>
   
 
-  
+  <div>
+    <button type="submit"id="submit-form">Submit</button>
+  </div>
+
 
 </form>
