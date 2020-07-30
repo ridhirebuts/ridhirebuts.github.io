@@ -41,7 +41,7 @@ My mother’s family had a small, but beautiful home, near river Vitasta (or Jhe
 
   
 
-As my father checked in, we were given Kahwa – the traditional Kashmiri green tea. It hit me different because I hadn’t really processed the fact that I was in Kashmir. The idea of being in my own homeland seemed so foreign to me, I couldn’t believe I was having Kahwa in any place apart from my house. So naturally I was excited, and I ended up spilling some of it.
+As my father checked in, we were given Kehwa – the traditional Kashmiri green tea. It hit me different because I hadn’t really processed the fact that I was in Kashmir. The idea of being in my own homeland seemed so foreign to me, I couldn’t believe I was having Kehwa in any place apart from my house. So naturally I was excited, and I ended up spilling some of it.
 
   
 
