@@ -2,11 +2,7 @@
 layout: post
 title: Allahabad or Prayag
 ---
-
-**Disclaimer**
-
   
-
 I understand that because "Allahabad" has "Allah" in it, it touches on religious sensitivities. I assure you, however, that this is not a critique of Islam or an onslaught on Islam. It is a critique of ruthless emperors who changed the name of a venerated area with no regard for the inhabitants of the area. It is also a critique of the emperors themselves, who killed many natives, and enslaved many others. I urge you to keep an open mind as you read through this.
 
 **Context**
