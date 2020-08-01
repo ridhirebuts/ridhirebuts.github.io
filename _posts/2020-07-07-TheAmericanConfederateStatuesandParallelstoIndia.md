@@ -3,6 +3,8 @@ layout: post
 title: The American Confederate Statues and Parallels to India 
 ---
 
+One country defends monuments of slavery and one is presently trying to tear them down.
+
 **Who are the Confederates?**
 
   
