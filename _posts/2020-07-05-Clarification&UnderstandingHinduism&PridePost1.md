@@ -4,8 +4,7 @@ title: Clarification and Understanding Hinduism & Pride Post 1
 ---
 
 
-A very warm hello to all of you.
-
+Let's try and break it down.
   
 
 This post consists of 7 sections:
