@@ -14,6 +14,62 @@ layout: default
 
 
 
+<blockquote class="embedly-card"><h4><a href="https://www.vox.com/conversations/2017/7/7/15886862/islam-trump-isis-terrorism-ali-rizvi-religion-sam-harris">An atheist Muslim on what the left and right get wrong about Islam</a></h4><p>"The left is wrong on Islam. The right is wrong on Muslims." These words were tweeted by Ali Rizvi, author of the new book The Atheist Muslim . Rizvi was born in Pakistan in 1975 into what he calls a "moderate to liberal Muslim family."</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+
+<blockquote class="embedly-card"><h4><a href="https://thepunjabpulse.com/galwan-episode-revisited/">Galwan Episode revisited</a></h4><p>Col Rajinder Singh Galwan in Kashmiri dialects means " Strong Man" or a PEHALWAN (Wrestler). The river emanates at AKSAI Chin and flows East to west for 80 KMs through gorges of high mountains upto 17000 feet. It joins Shyok River in the Shyok Valley .</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+
+<blockquote class="embedly-card"><h4><a href="https://www.hinduamerican.org/blog/the-washington-posts-kashmir-coverage-is-neither-fair-nor-accurate-nor-comprehensive/">The Washington Post's Kashmir coverage is neither fair, nor accurate, nor comprehensive - Hindu American Foundation</a></h4><p>This past weekend a group of Kashmir Pandits protested outside the Washington Post offices in Washington, DC. They decried as one-sided the coverage by the Post of the ongoing tense situation in Kashmir resulting from the Government of India repealing two articles of the Indian constitution, which ended the semi-autonomous status of the state of Jammu and Kashmir.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+
+<blockquote class="embedly-card"><h4><a href="http://ikashmir.net/pastpresent/index.html">Kashmir: Past and Present by Prof. Mohan Lal Koul</a></h4><p>For centuries Kashmir has been a fascinating subject for authors and analysts. Volumes have been written about its multi-taceted aspects. But since the division of the Indian subcontinent and emergence of independent states of India and Pakistan, the predominent theme of such books has been political.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+
+<blockquote class="embedly-card"><h4><a href="https://www.huffpost.com/entry/no-hinduism-is-not-behind-indias-rape-crisis_b_9554926?guccounter=1">No, Hinduism Is Not Behind India's 'Rape Crisis'</a></h4><p>Pakistani journalist Shaan Khan's piece "What's Really Behind India's Rape Crisis," published this Friday on The Daily Beast, looks at China and India -- two countries with similarly skewed sex ratios -- and asks why India in the last few years has experienced a "rape crisis," while China has not.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+
+<blockquote class="embedly-card"><h4><a href="https://medium.com/@induv/battling-dominant-narratives-struggles-of-a-critical-hindu-american-d3729ab75618">Battling Dominant Narratives: Struggles of a Critical Hindu American</a></h4><p>It was somewhere in the first few minutes of watching the Tom Lantos Human Rights Commission's hearing on Jammu and Kashmir that the dangers of contemporary American progressivism sank even deeper into my gut, and I felt acutely party-less, unrepresented, and knowingly silenced in the name of human rights.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+
+<blockquote class="embedly-card"><h4><a href="https://medium.com/@parihar.parth/cutting-through-ca-caa-phonies-part-i-e8aaf06bd059">Cutting through Ca-CAA-phonies - Part I:</a></h4><p>Over the past two weeks, the passage of the Citizenship Amendment Act (CAA) in India has unleashed an extraordinary wave of vitriol, partisanship, and most importantly - misinformation - regarding the legislation.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+
+<blockquote class="embedly-card"><h4><a href="https://www.thehinducentre.com/the-arena/current-issues/article30789891.ece">CAA and the Devaluation of Secular India</a></h4><p>The Citizenship Amendment Act, 2019 (CAA 2019), has touched a raw nerve among Indians who grew up in an India that was a melting pot of diversity. While there is a sense of outrage among Indians who feel that this Act goes against Indian nationhood, there also exist those who are confused over the protests and see the CAA as a piece of legislation that would not affect them.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+
+<blockquote class="embedly-card"><h4><a href="https://medium.com/@parihar.parth/why-indias-citizenship-amendment-act-is-not-selective-b8c925fb9d99">Why India's Citizenship Amendment Act is Not Selective</a></h4><p>This article is the second in a series analyzing critiques of India's Citizenship (Amendment) Act, 2019. The can be found here. - "Interrogating the Citizenship (Amendment) Bill, Economic and Political Weekly, Vol. 54, Issue 49. 14 Dec 2019. - "Four New Petitions Against CAA in Supreme Court," Petition of Rajya Sabha MP Manoj Jha, Live Law.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+
+<blockquote class="embedly-card"><h4><a href="https://www.prsindia.org/sites/default/files/bill_files/Joint%20committee%20report%20on%20citizenship%20%28A%29%20bill.pdf">null</a></h4><p>null</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+
+<blockquote class="embedly-card"><h4><a href="http://164.100.47.4/BillsTexts/LSBillTexts/asintroduced/370_2019_LS_Eng.pdf">null</a></h4><p>null</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+
+
 
 
 
