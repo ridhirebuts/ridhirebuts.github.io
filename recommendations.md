@@ -14,6 +14,7 @@ layout: default
 
 <blockquote class="embedly-card"><h4><a href="https://blog.usejournal.com/the-pulitzer-is-a-portal-b157bc0f6850">The Pulitzer is a Portal</a></h4><p>In particular, one photograph from the set (see left, above)- that of a "masked Kashmiri protester jump[ing] on the bonnet" of a J&K police vehicle provides an interesting parallel to at least two other Pulitzer Prize-winning photographs from previous years.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 <blockquote class="embedly-card"><h4><a href="https://www.hrw.org/news/2020/01/11/un-peacekeeping-has-sexual-abuse-problem">UN Peacekeeping has a Sexual Abuse Problem</a></h4><p>A Haitian woman was selling charcoal on the empty edges of her small town when a white, uniformed United Nations peacekeeper offered her a lift in his marked vehicle. He raped her shortly after she got in. "I could not fight back," said Marie Badeau (a pseudonym) when I interviewed her in 2016, more than four years after the rape.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 <blockquote class="embedly-card"><h4><a href="https://apnews.com/1dddec72ffe308d5c00a7cd653041aa2">UN report: Sex abuse allegations rose significantly in 2019</a></h4><p>UNITED NATIONS (AP) - Allegations of sexual abuse and exploitation in U.N peacekeeping and political missions rose significantly in 2019, with allegations against civilian personnel nearly doubling, a U.N. report said Friday. Secretary-General Antonio Guterres said in the report to the U.N.</p></blockquote>
@@ -24,8 +25,7 @@ layout: default
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 <blockquote class="embedly-card"><h4><a href="https://theconversation.com/they-put-a-few-coins-in-your-hands-to-drop-a-baby-in-you-265-stories-of-haitian-children-abandoned-by-un-fathers-114854">'They put a few coins in your hands to drop a baby in you' - 265 stories of Haitian children abandoned by UN fathers</a></h4><p>Marie* was 14 years old and enrolled in a Christian school when she met and became involved with Miguel, a Brazilian soldier working in Haiti as a UN peacekeeper. When she told him that she was pregnant with his baby, Miguel said he would help her with the child.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-<blockquote class="embedly-card"><h4><a href="https://theconversation.com/they-put-a-few-coins-in-your-hands-to-drop-a-baby-in-you-265-stories-of-haitian-children-abandoned-by-un-fathers-114854">'They put a few coins in your hands to drop a baby in you' - 265 stories of Haitian children abandoned by UN fathers</a></h4><p>Marie* was 14 years old and enrolled in a Christian school when she met and became involved with Miguel, a Brazilian soldier working in Haiti as a UN peacekeeper. When she told him that she was pregnant with his baby, Miguel said he would help her with the child.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 <blockquote class="embedly-card"><h4><a href="https://www.cbc.ca/news/world/un-peacekeepers-sexual-abuse-1.3881872">UN finds 41 more peacekeepers involved in sexual abuse in Central African Republic | CBC News</a></h4><p>A UN investigation into allegations of sexual abuse by peacekeepers in the Central African Republic has identified 41 of the alleged perpetrators. UN spokesman Stephane Dujarric said Monday that the four-month-long investigation identified 25 peacekeepers from Burundi and 16 from Gabon as suspects in connection with the incidents that allegedly occurred between 2014 and 2015.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 <blockquote class="embedly-card"><h4><a href="https://indianexpress.com/article/world/americas/sex-exploitation-by-un-peacekeepers-strongly-underreported-reveals-report/">UN peacekeepers engage in "transactional sex" for food, medicines: Report</a></h4><p>Members of a UN peacekeeping mission engaged in "transactional sex" with more than 225 Haitian women who said they needed it for things like food and medication, suggesting that sexual exploitation remains significantly underreported in such missions, according to a new report.</p></blockquote>
@@ -36,7 +36,7 @@ layout: default
 <!-- End of UN expose --->
 
 
-
+<h2>Others</h2>
 <blockquote class="embedly-card"><h4><a href="https://www.vox.com/conversations/2017/7/7/15886862/islam-trump-isis-terrorism-ali-rizvi-religion-sam-harris">An atheist Muslim on what the left and right get wrong about Islam</a></h4><p>"The left is wrong on Islam. The right is wrong on Muslims." These words were tweeted by Ali Rizvi, author of the new book The Atheist Muslim . Rizvi was born in Pakistan in 1975 into what he calls a "moderate to liberal Muslim family."</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
