@@ -1,21 +1,7 @@
 ---
 layout: default
 ---
-  <script>
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbx2grdWQDw40IiqmaCAN55Lj2ezYsL5dKCIrw9wR04fKCoSyYC_/exec'
-    const form = document.forms['submit-to-google-sheet']
- 
-  
-    form.addEventListener('submit', e => {
-      e.preventDefault()
-      fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-        .then(response =>console.log('Success!', response),document.getElementById('email').value = "",
-              document.getElementById('clearfix').style.visibility = "collapse",
-             document.getElementById('axbutton').innerHTML = "Thank You! Successfully  Subscribed ",
-                  document.getElementById('axbutton').disabled = true)
-        .catch(error => console.error('Error!', error.message))
-    })
-  </script>
+
     <style>
       
 #wrapperax{
@@ -91,7 +77,21 @@ layout: default
   
 
   </form>
-
+  <script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbx2grdWQDw40IiqmaCAN55Lj2ezYsL5dKCIrw9wR04fKCoSyYC_/exec'
+    const form = document.forms['submit-to-google-sheet']
+ 
+  
+    form.addEventListener('submit', e => {
+      e.preventDefault()
+      fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+        .then(response =>console.log('Success!', response),document.getElementById('email').value = "",
+              document.getElementById('clearfix').style.visibility = "collapse",
+             document.getElementById('axbutton').innerHTML = "Thank You! Successfully  Subscribed ",
+                  document.getElementById('axbutton').disabled = true)
+        .catch(error => console.error('Error!', error.message))
+    })
+  </script>
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
