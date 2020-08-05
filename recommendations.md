@@ -12,8 +12,7 @@ layout: default
 <blockquote class="embedly-card"><h4><a href="https://www.irishtimes.com/news/verdict-today-in-case-of-un-employee-accused-of-raping-23-african-girls-1.937754">Verdict today in case of UN employee accused of raping 23 African girls</a></h4><p>FRANCE:A PARIS court will today hand down a verdict in the case of Didier Bourguet (44), a French citizen accused of raping 23 African girls while serving as a mechanic for a United Nations peacekeeping mission in the Democratic Republic of Congo (DRC), writes Lara Marlowe in Paris If found guilty, Mr Bourguet could be sentenced to 20 years in prison.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://blog.usejournal.com/the-pulitzer-is-a-portal-b157bc0f6850">The Pulitzer is a Portal</a></h4><p>In particular, one photograph from the set (see left, above)- that of a "masked Kashmiri protester jump[ing] on the bonnet" of a J&K police vehicle provides an interesting parallel to at least two other Pulitzer Prize-winning photographs from previous years.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 
 <blockquote class="embedly-card"><h4><a href="https://www.hrw.org/news/2020/01/11/un-peacekeeping-has-sexual-abuse-problem">UN Peacekeeping has a Sexual Abuse Problem</a></h4><p>A Haitian woman was selling charcoal on the empty edges of her small town when a white, uniformed United Nations peacekeeper offered her a lift in his marked vehicle. He raped her shortly after she got in. "I could not fight back," said Marie Badeau (a pseudonym) when I interviewed her in 2016, more than four years after the rape.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -37,6 +36,11 @@ layout: default
 
 
 <h2>Others</h2>
+
+<blockquote class="embedly-card"><h4><a href="https://blog.usejournal.com/the-pulitzer-is-a-portal-b157bc0f6850">The Pulitzer is a Portal</a></h4><p>In particular, one photograph from the set (see left, above)- that of a "masked Kashmiri protester jump[ing] on the bonnet" of a J&K police vehicle provides an interesting parallel to at least two other Pulitzer Prize-winning photographs from previous years.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<blockquote class="embedly-card"><h4><a href="https://www.bariweiss.com/resignation-letter">Resignation Letter - Bari Weiss</a></h4><p>Dear A.G., It is with sadness that I write to tell you that I am resigning from The New York Times. I joined the paper with gratitude and optimism three years ago. I was hired with the goal of bringing in voices that would not otherwise appear in your pages: first-time writers, centrists, conservatives and others who would not naturally think of The Times as their home.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 <blockquote class="embedly-card"><h4><a href="https://www.vox.com/conversations/2017/7/7/15886862/islam-trump-isis-terrorism-ali-rizvi-religion-sam-harris">An atheist Muslim on what the left and right get wrong about Islam</a></h4><p>"The left is wrong on Islam. The right is wrong on Muslims." These words were tweeted by Ali Rizvi, author of the new book The Atheist Muslim . Rizvi was born in Pakistan in 1975 into what he calls a "moderate to liberal Muslim family."</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
@@ -57,9 +61,8 @@ layout: default
 
 
 
-<blockquote class="embedly-card"><h4><a href="https://www.huffpost.com/entry/no-hinduism-is-not-behind-indias-rape-crisis_b_9554926?guccounter=1">No, Hinduism Is Not Behind India's 'Rape Crisis'</a></h4><p>Pakistani journalist Shaan Khan's piece "What's Really Behind India's Rape Crisis," published this Friday on The Daily Beast, looks at China and India -- two countries with similarly skewed sex ratios -- and asks why India in the last few years has experienced a "rape crisis," while China has not.</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://www.huffpost.com/entry/no-hinduism-is-not-behind-indias-rape-crisis_b_9554926">No, Hinduism Is Not Behind India's 'Rape Crisis'</a></h4><p>Pakistani journalist Shaan Khan's piece "What's Really Behind India's Rape Crisis," published this Friday on The Daily Beast, looks at China and India -- two countries with similarly skewed sex ratios -- and asks why India in the last few years has experienced a "rape crisis," while China has not.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
 
 
 <blockquote class="embedly-card"><h4><a href="https://medium.com/@induv/battling-dominant-narratives-struggles-of-a-critical-hindu-american-d3729ab75618">Battling Dominant Narratives: Struggles of a Critical Hindu American</a></h4><p>It was somewhere in the first few minutes of watching the Tom Lantos Human Rights Commission's hearing on Jammu and Kashmir that the dangers of contemporary American progressivism sank even deeper into my gut, and I felt acutely party-less, unrepresented, and knowingly silenced in the name of human rights.</p></blockquote>
