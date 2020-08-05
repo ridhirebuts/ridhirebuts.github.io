@@ -14,6 +14,21 @@
 <link rel="shortcut icon" type="image/png" href="/icon.png?">
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
       <link rel="shortcut icon" href="images/icon.png">
+     <script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbx2grdWQDw40IiqmaCAN55Lj2ezYsL5dKCIrw9wR04fKCoSyYC_/exec'
+    const form = document.forms['submit-to-google-sheet']
+ 
+  
+    form.addEventListener('submit', e => {
+      e.preventDefault()
+      fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+        .then(response =>console.log('Success!', response),document.getElementById('email').value = "",
+              document.getElementById('clearfix').style.visibility = "collapse",
+             document.getElementById('axbutton').innerHTML = "Thank You! Successfully  Subscribed ",
+                  document.getElementById('axbutton').disabled = true)
+        .catch(error => console.error('Error!', error.message))
+    })
+  </script>
     <style>
       
 #wrapperax{
@@ -78,7 +93,15 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-<form name="submit-to-google-sheet" >
+
+
+ 
+          <nav>
+            <a href="{{ site.baseurl }}/">Blog</a>
+             <a href="{{ site.baseurl }}/recommend/">Recommended Reads</a>
+              <a href="{{ site.baseurl }}/about">About</a>
+          </nav>
+          <form name="submit-to-google-sheet" >
       <div class="container">
    
 <table id="wrapperax">
@@ -102,27 +125,6 @@
   
 
   </form>
-
-  <script>
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbx2grdWQDw40IiqmaCAN55Lj2ezYsL5dKCIrw9wR04fKCoSyYC_/exec'
-    const form = document.forms['submit-to-google-sheet']
- 
-  
-    form.addEventListener('submit', e => {
-      e.preventDefault()
-      fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-        .then(response =>console.log('Success!', response),document.getElementById('email').value = "",
-              document.getElementById('clearfix').style.visibility = "collapse",
-             document.getElementById('axbutton').innerHTML = "Thank You! Successfully  Subscribed ",
-                  document.getElementById('axbutton').disabled = true)
-        .catch(error => console.error('Error!', error.message))
-    })
-  </script>
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-             <a href="{{ site.baseurl }}/recommend/">Recommended Reads</a>
-              <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
         </header>
       </div>
     </div>
