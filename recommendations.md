@@ -4,6 +4,7 @@ permalink: /recommend/
 layout: default
 
 ---
+<div data-elink="https://elink.io/embed/9725f90"><a href="https://elink.io" target="_blank">elink.io</a> | <a href="https://elink.io/p/9725f90" target="_blank">See Original</a></div><p style="color:#c9c8cd;font-family:Arial,sans-serif;font-size:14px;line-height:17px;margin-bottom:0;margin-top:8px;overflow:hidden;padding:2px 4px;text-align:center;text-overflow:ellipsis;white-space:nowrap;"><a href="https://elink.io/p/9725f90" target="_blank" style="text-decoration:none;color:#c9c8cd;font-family:Arial,sans-serif;font-size:14px;font-style:normal;font-weight:normal;line-height:17px;">See Original</a> | <a href="https://elink.io" target="_blank" style="text-decoration:none;color:#c9c8cd;font-family:Arial,sans-serif;font-size:14px;font-style:normal;font-weight:normal;line-height:17px;">Powered by elink</a></p><script async src="https://d1sf3a4rercrry.cloudfront.net/embed.js" charset="utf-8"></script>
 <blockquote class="embedly-card"><h4><a href="https://ridhirebuts.github.io/Religious-persecution-in-pakistan/">Religious Persecution in Pakistan</a></h4><p>In his first speech before the members of the Constituent Assembly of Pakistan in 1947, Mohammad Ali Jinnah said that non-Muslims would be equal citizens in the new country and that every person living in the country would be an equal citizen, irrespective of his or her community, caste, colour, or faith.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
