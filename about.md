@@ -94,9 +94,7 @@ I am Ridhi. Kashmiri and a freelance journalist studying Cultural Studies and li
   </style>
 
   
-  <script src="https://wzrd.in/standalone/formdata-polyfill"></script>
-<script src="https://wzrd.in/standalone/promise-polyfill@latest"></script>
-<script src="https://wzrd.in/standalone/whatwg-fetch@latest"></script>
+  
   <script>
     const scriptURL = 'https://script.google.com/macros/s/AKfycbzwKpDbgyX_PUQGfPxM3pUCXFlXuTXYdfOiL5j-_W2xR7U4arNG/exec'
     const form = document.forms['submit-to-google-sheet']
