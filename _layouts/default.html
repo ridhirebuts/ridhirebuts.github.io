@@ -14,72 +14,7 @@
 <link rel="shortcut icon" type="image/png" href="/icon.png?">
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
       <link rel="shortcut icon" href="images/icon.png">
-     <script>
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbx2grdWQDw40IiqmaCAN55Lj2ezYsL5dKCIrw9wR04fKCoSyYC_/exec'
-    const form = document.forms['submit-to-google-sheet']
- 
-  
-    form.addEventListener('submit', e => {
-      e.preventDefault()
-      fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-        .then(response =>console.log('Success!', response),document.getElementById('email').value = "",
-              document.getElementById('clearfix').style.visibility = "collapse",
-             document.getElementById('axbutton').innerHTML = "Thank You! Successfully  Subscribed ",
-                  document.getElementById('axbutton').disabled = true)
-        .catch(error => console.error('Error!', error.message))
-    })
-  </script>
-    <style>
-      
-#wrapperax{
-    width: 100%;
-}
-#email {
-  width: 100%;
-  padding: 15px;
-  margin: 5px 0 22px 0;
-  display: inline-block;
-  border: none;
-  background: #f1f1f1;
-}
-#email:focus {
-  background-color: #ddd;
-  outline: none;
-}
-#axbutton {
-  background-color: #a1d9e2;
-  color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  cursor: pointer;
-  width: 100%;
-  opacity: 0.9;
-      font-weight: bold;
-}
-#axbutton:hover {
-  opacity:1;
-}
-/* Float cancel and signup buttons and add an equal width */
-#axbutton {
-  float: left;
- 
-}
-
-/* Add padding to container elements */
- .container {
-  padding: 16px;
-}
-
-/* Clear floats */
-/*.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
-}
- */
-
-    </style>
+   
   </head>
 
   <body>
@@ -101,30 +36,7 @@
              <a href="{{ site.baseurl }}/recommend/">Recommended Reads</a>
               <a href="{{ site.baseurl }}/about">About</a>
           </nav>
-          <form name="submit-to-google-sheet" >
-      <div class="container">
-   
-<table id="wrapperax">
-  <tr  id="clearfix">
-    <td> <input type="email"  id="email" placeholder="Enter Email" name="email" required></td>
-   
-  </tr>
-  <tr >
-    <td >  
-        <div>
          
-          <button  id="axbutton" type="submit">Subscribe</button>
-        </div></td>
-  
-  </tr>
-</table>
-   
-       
-    
-      </div>
-  
-
-  </form>
         </header>
       </div>
     </div>
