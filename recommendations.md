@@ -4,35 +4,7 @@ permalink: /recommend/
 layout: default
 
 ---
-<h2>UN Exposé</h2> <!-- Copy This and add your section name-->
-<blockquote class="embedly-card"><h4><a href="https://apnews.com/96f9ff66b7b34d9f971edf0e92e2082c/UN-Peacekeepers:-How-a-Haiti-child-sex-ring-was-whitewashed">UN Peacekeepers: How a Haiti child sex ring was whitewashed</a></h4><p>COLOMBO, Sri Lanka (AP) - The general sat on a plastic lawn chair in the garden of his mother's home, the scent of tropical blooms filling the air as he talked about the alleged rape and sodomy of a Haitian teenager by a Sri Lankan peacekeeper. There was no rape, insisted Maj.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-<blockquote class="embedly-card"><h4><a href="https://www.theguardian.com/world/2015/apr/30/hollande-no-mercy-over-allegations-of-child-abuse-in-car-by-french-soldiers">Hollande: no mercy over claims French soldiers abused children in CAR</a></h4><p>The French president, François Hollande, has vowed to show no mercy over allegations that French peacekeeping soldiers sexually abused starving and homeless children in the Central African Republic. "If some soldiers have behaved badly, I will show no mercy," he told reporters on a visit to Brest, north-west France.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-<blockquote class="embedly-card"><h4><a href="https://www.irishtimes.com/news/verdict-today-in-case-of-un-employee-accused-of-raping-23-african-girls-1.937754">Verdict today in case of UN employee accused of raping 23 African girls</a></h4><p>FRANCE:A PARIS court will today hand down a verdict in the case of Didier Bourguet (44), a French citizen accused of raping 23 African girls while serving as a mechanic for a United Nations peacekeeping mission in the Democratic Republic of Congo (DRC), writes Lara Marlowe in Paris If found guilty, Mr Bourguet could be sentenced to 20 years in prison.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-
-
-<blockquote class="embedly-card"><h4><a href="https://www.hrw.org/news/2020/01/11/un-peacekeeping-has-sexual-abuse-problem">UN Peacekeeping has a Sexual Abuse Problem</a></h4><p>A Haitian woman was selling charcoal on the empty edges of her small town when a white, uniformed United Nations peacekeeper offered her a lift in his marked vehicle. He raped her shortly after she got in. "I could not fight back," said Marie Badeau (a pseudonym) when I interviewed her in 2016, more than four years after the rape.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-<blockquote class="embedly-card"><h4><a href="https://apnews.com/1dddec72ffe308d5c00a7cd653041aa2">UN report: Sex abuse allegations rose significantly in 2019</a></h4><p>UNITED NATIONS (AP) - Allegations of sexual abuse and exploitation in U.N peacekeeping and political missions rose significantly in 2019, with allegations against civilian personnel nearly doubling, a U.N. report said Friday. Secretary-General Antonio Guterres said in the report to the U.N.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-<blockquote class="embedly-card"><h4><a href="https://www.usatoday.com/story/news/world/2018/01/16/u-n-fails-stem-rapes-peacekeepers-africa-victims-cry/1016223001/">U.N. fails to stem rapes by peacekeepers in Africa, victims cry</a></h4><p>BANGUI, Central African Republic - The United Nations became embroiled in one of its worst scandals in 2014 when shocking allegations surfaced that U.N. peacekeepers were raping women and children in this impoverished, war-battered nation. Today, blue-helmeted soldiers and U.N. staff still rape with impunity despite pledges by U.N.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-<blockquote class="embedly-card"><h4><a href="https://www.washingtonpost.com/world/2019/12/18/un-peacekeepers-fathered-then-abandoned-hundreds-children-haiti-report-says/">U.N. peacekeepers fathered, then abandoned, hundreds of children in Haiti, report says</a></h4><p>U.N. peacekeepers in Haiti allegedly fathered children with women and girls before abandoning them, according to a new report, building on previous accusations of sexual misconduct carried out by peacekeepers on the vulnerable populations they are ordered to protect.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-<blockquote class="embedly-card"><h4><a href="https://theconversation.com/they-put-a-few-coins-in-your-hands-to-drop-a-baby-in-you-265-stories-of-haitian-children-abandoned-by-un-fathers-114854">'They put a few coins in your hands to drop a baby in you' - 265 stories of Haitian children abandoned by UN fathers</a></h4><p>Marie* was 14 years old and enrolled in a Christian school when she met and became involved with Miguel, a Brazilian soldier working in Haiti as a UN peacekeeper. When she told him that she was pregnant with his baby, Miguel said he would help her with the child.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-<blockquote class="embedly-card"><h4><a href="https://www.cbc.ca/news/world/un-peacekeepers-sexual-abuse-1.3881872">UN finds 41 more peacekeepers involved in sexual abuse in Central African Republic | CBC News</a></h4><p>A UN investigation into allegations of sexual abuse by peacekeepers in the Central African Republic has identified 41 of the alleged perpetrators. UN spokesman Stephane Dujarric said Monday that the four-month-long investigation identified 25 peacekeepers from Burundi and 16 from Gabon as suspects in connection with the incidents that allegedly occurred between 2014 and 2015.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-<blockquote class="embedly-card"><h4><a href="https://indianexpress.com/article/world/americas/sex-exploitation-by-un-peacekeepers-strongly-underreported-reveals-report/">UN peacekeepers engage in "transactional sex" for food, medicines: Report</a></h4><p>Members of a UN peacekeeping mission engaged in "transactional sex" with more than 225 Haitian women who said they needed it for things like food and medication, suggesting that sexual exploitation remains significantly underreported in such missions, according to a new report.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-
-
-<!-- End of UN expose --->
 
 
 <h2>Others</h2>
