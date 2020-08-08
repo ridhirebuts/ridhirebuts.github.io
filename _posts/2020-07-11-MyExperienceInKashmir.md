@@ -156,11 +156,11 @@ Another car ride later, we reached Dal Lake and we got on a shikara. I thought i
 
   
 
-First, we were approached by a man on a shikara selling kahwa. How could we refuse Kahwa? We bought it and he paddled ahead. Then came the man selling vegetables. Gogja, monja, haak, nadur – you could see my father’s face flush with excitement. But my father had planned to purchase the goods elsewhere and so we bid that seller farewell, and he too paddled ahead. The third and final seller was a photographer. He offered to take pictures of us with some props that he had. I didn’t really want to since it involved me having to shift shikaras, but my father thought it’d be fun and we did it anyway.
+First, we were approached by a man on a shikara selling kehwa. How could we refuse Kahwa? We bought it and he paddled ahead. Then came the man selling vegetables. Gogja, monja, haak, nadur – you could see my father’s face flush with excitement. But my father had planned to purchase the goods elsewhere and so we bid that seller farewell, and he too paddled ahead. The third and final seller was a photographer. He offered to take pictures of us with some props that he had. I didn’t really want to since it involved me having to shift shikaras, but my father thought it’d be fun and we did it anyway.
 
   
 
-Once all the sellers had left, we just sipped our Kahwa and waited for the sun to set – and what a sunset it was. I think the painting of Dal Lake that hangs in my house pales in comparison to the view we had that evening.
+Once all the sellers had left, we just sipped our kehwa and waited for the sun to set – and what a sunset it was. I think the painting of Dal Lake that hangs in my house pales in comparison to the view we had that evening.
 
 ![Dal lake](https://raw.githubusercontent.com/ridhirebuts/ridhirebuts.github.io/master/images/Dal%20Lake%20Sunset.JPG)
 
