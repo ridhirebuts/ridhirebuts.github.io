@@ -156,7 +156,7 @@ Another car ride later, we reached Dal Lake and we got on a shikara. I thought i
 
   
 
-First, we were approached by a man on a shikara selling kehwa. How could we refuse Kahwa? We bought it and he paddled ahead. Then came the man selling vegetables. Gogja, monja, haak, nadur – you could see my father’s face flush with excitement. But my father had planned to purchase the goods elsewhere and so we bid that seller farewell, and he too paddled ahead. The third and final seller was a photographer. He offered to take pictures of us with some props that he had. I didn’t really want to since it involved me having to shift shikaras, but my father thought it’d be fun and we did it anyway.
+First, we were approached by a man on a shikara selling kehwa. How could we refuse kehwa? We bought it and he paddled ahead. Then came the man selling vegetables. Gogja, monja, haak, nadur – you could see my father’s face flush with excitement. But my father had planned to purchase the goods elsewhere and so we bid that seller farewell, and he too paddled ahead. The third and final seller was a photographer. He offered to take pictures of us with some props that he had. I didn’t really want to since it involved me having to shift shikaras, but my father thought it’d be fun and we did it anyway.
 
   
 
