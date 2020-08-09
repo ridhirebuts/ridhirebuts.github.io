@@ -51,8 +51,7 @@ layout: default
 
 <blockquote class="embedly-card"><h4><a href="https://blog.usejournal.com/the-pulitzer-is-a-portal-b157bc0f6850">The Pulitzer is a Portal</a></h4><p>In particular, one photograph from the set (see left, above)- that of a "masked Kashmiri protester jump[ing] on the bonnet" of a J&K police vehicle provides an interesting parallel to at least two other Pulitzer Prize-winning photographs from previous years.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-<blockquote class="embedly-card"><h4><a href="https://www.bariweiss.com/resignation-letter">Resignation Letter - Bari Weiss</a></h4><p>Dear A.G., It is with sadness that I write to tell you that I am resigning from The New York Times. I joined the paper with gratitude and optimism three years ago. I was hired with the goal of bringing in voices that would not otherwise appear in your pages: first-time writers, centrists, conservatives and others who would not naturally think of The Times as their home.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 <blockquote class="embedly-card"><h4><a href="https://www.vox.com/conversations/2017/7/7/15886862/islam-trump-isis-terrorism-ali-rizvi-religion-sam-harris">An atheist Muslim on what the left and right get wrong about Islam</a></h4><p>"The left is wrong on Islam. The right is wrong on Muslims." These words were tweeted by Ali Rizvi, author of the new book The Atheist Muslim . Rizvi was born in Pakistan in 1975 into what he calls a "moderate to liberal Muslim family."</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
