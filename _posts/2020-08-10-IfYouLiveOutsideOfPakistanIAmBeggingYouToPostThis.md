@@ -76,4 +76,11 @@ You can read the post [here](https://www.instagram.com/ridhirebuts/).
 Hadi, Abdul. (2015). Injustice and [Persecution: Forced Migration of Sindhi Hindus in Pakistan](https://www.researchgate.net/publication/276535777_Injustice_and_Persecution_Forced_Migration_of_Sindhi_Hindus_in_Pakistan/citation/download). Mediterranean Journal of Social Sciences. 6. 10.5901/mjss.2015.v6n2s5p11.
 
 Yousaf, Farooq. (2016). SADF Focus: [The plight of Religious Minorities in Pakistan](https://www.researchgate.net/publication/324245465_SADF_Focus_The_plight_of_Religious_Minorities_in_Pakistan). 10.13140/RG.2.2.17953.92000.
-  
+
+[https://www1.cbn.com/cbnnews/cwn/2019/december/14-year-old-christian-girl-kidnapped-forced-to-marry-muslim-pakistans-trafficking-epidemic-claims-629-girls](https://www1.cbn.com/cbnnews/cwn/2019/december/14-year-old-christian-girl-kidnapped-forced-to-marry-muslim-pakistans-trafficking-epidemic-claims-629-girls)
+
+[https://www1.cbn.com/cbnnews/2020/july/report-kidnapped-pakistani-christian-teen-forced-to-convert-to-islam-is-pregnant-confined-to-room](https://www1.cbn.com/cbnnews/2020/july/report-kidnapped-pakistani-christian-teen-forced-to-convert-to-islam-is-pregnant-confined-to-room)
+
+[https://www.christianpost.com/news/pakistani-court-allows-marriage-kidnapped-christian-girl-because-she-had-her-first-period.html](https://www.christianpost.com/news/pakistani-court-allows-marriage-kidnapped-christian-girl-because-she-had-her-first-period.html)
+
+[https://acnuk.org/news/pakistan-kidnapped-christian-girl-now-pregnant-from-rape/](https://acnuk.org/news/pakistan-kidnapped-christian-girl-now-pregnant-from-rape/)
