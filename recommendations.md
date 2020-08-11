@@ -4,6 +4,9 @@ permalink: /recommend/
 layout: default
 ---
 
+<blockquote class="embedly-card"><h4><a href="https://theprint.in/opinion/want-to-preserve-secularism-in-india-well-preserve-the-hindu-ethos-first/477972/">Want to preserve secularism in India? Well, preserve the Hindu ethos first</a></h4><p>August 5, 2020 marked the bhoomi pujan of the Ram temple in Ayodhya. I have noticed that many have been genuinely anguished by this event. Some have been bemoaning it as the death of secularism in India. I consider myself to be secular, so why do I do not see it that way?</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 <blockquote class="embedly-card"><h4><a href="https://medium.com/@induv/the-attempted-epistemicide-of-70e5566bc788">The Attempted Epistemicide of</a></h4><p>What we now call Hinduism and popularly understand to be a religion is actually the name given by invaders of India (beginning with the Greeks) to the knowledge traditions and theories of knowledge that were developed in the lands below the Indus River.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
