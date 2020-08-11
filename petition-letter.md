@@ -6,7 +6,7 @@ layout: default
  <style>
      #axbuttonstwo{
   background-color: 	#ff1329;
-  color:gray;
+  color:white;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -20,8 +20,8 @@ layout: default
      }
     </style>
 ## Instructions
-1.Please use a mobile/smartphone to email this petiton. The link is non-functional in dekstop/laptop.
-Note : If you use to use your desktop/laptop copy and paste the recipents email and the letter
+Note : Please use a mobile/smartphone to email this petiton. The link is non-functional in dekstop/laptop.
+  If you use to use your desktop/laptop copy and paste the recipents email and the letter
 2. Add your name to the bottom of the email.
 3. Add/Edit lines to make it different and increase the chances to bypass spam filters.
 4. Read the letter below and click the button.
@@ -29,13 +29,13 @@ Note : If you use to use your desktop/laptop copy and paste the recipents email 
     <input id="axbuttonstwo" type="submit" value="Email to International Human Rights Organistions" />
         </form>
         
-  Recipents:    
+  # Recipents:    
   bogertc@hrw.org,
   InfoDesk@ohchr.org,
   contactus@amnesty.org,
   info@ahrc.asia
   
-  Email:
+  # Email:
   
   To whom it may concern, 
 
