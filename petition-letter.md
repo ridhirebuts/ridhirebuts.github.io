@@ -29,13 +29,13 @@ Note : Please use a mobile/smartphone to email this petiton. The link is non-fun
     <input id="axbuttonstwo" type="submit" value="Email to International Human Rights Organistions" />
         </form>
         
-  ## Recipents:    
+  **Recipents:**    
   bogertc@hrw.org,
   InfoDesk@ohchr.org,
   contactus@amnesty.org,
   info@ahrc.asia
   
-  ## Email:
+  **Email:**
   
   To whom it may concern, 
 
