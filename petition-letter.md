@@ -25,26 +25,23 @@ layout: default
         </form>
         
         
-        To: 
-
-bogertc@hrw.org
-InfoDesk@ohchr.org
-contactus@amnesty.org
-info@ahrc.asia
-
-To whom it may concern, 
+        To: bogertc@hrw.org,
+        InfoDesk@ohchr.org,
+        contactus@amnesty.org,
+        info@ahrc.asia
+    Body: To whom it may concern, 
 
 
-I am writing this email to seek your help regarding the persecution of religious minorities in Pakistan. 
+     I am writing this email to seek your help regarding the persecution of religious minorities in Pakistan. 
 
-In April, 14 year-old Maria Shahbaz (a Christian girl) was abducted at gunpoint and later forcibly married to an influential Muslim man. She was with the abductor for three months and her family turned to the Lahore High Court for help. On 4th August, the High Court ruled that she had willingly converted her religion and married her kidnapper and hence, she was asked to stay with her abductor. The court dismissed birth certifications and school records proving that she was a minor. Such incidents are not uncommon in Pakistan and it is estimated that every year, over 2000 women and girls from Pakistan’s minority communities are abducted, converted and forced to marry their captors. 
+     In April, 14 year-old Maria Shahbaz (a Christian girl) was abducted at gunpoint and later forcibly married to an influential Muslim man. She was with the abductor for three months and her family turned to the Lahore High Court for help. On 4th August, the High Court ruled that she had willingly converted her religion and married her kidnapper and hence, she was asked to stay with her abductor. The court dismissed birth certifications and school records proving that she was a minor. Such incidents are not uncommon in Pakistan and it is estimated that every year, over 2000 women and girls from Pakistan’s minority communities are abducted, converted and forced to marry their captors. 
 
-Likewise, there are many similar incidents of religious discrimination in Pakistan. During the Covid-19 pandemic, Hindus and Christians were allegedly denied aid, religious sites of minorities are being targeted by intolerant mobs and there has been a mass exodus of Hindus and Sikhs from Pakistan. Forceful conversions are also rampant, with reports surfacing of 102 Hindu men and women being forcibly converted in Badin district of Pakistan in June. Reports also highlighted that Hindus in the Sindh province were being tortured, their houses were vandalised and forcibly taken, and a Hindu boy was kidnapped for refusing to convert. They were told to convert if they wanted to get their houses back. 
+     Likewise, there are many similar incidents of religious discrimination in Pakistan. During the Covid-19 pandemic, Hindus and Christians were allegedly denied aid, religious sites of minorities are being targeted by intolerant mobs and there has been a mass exodus of Hindus and Sikhs from Pakistan. Forceful conversions are also rampant, with reports surfacing of 102 Hindu men and women being forcibly converted in Badin district of Pakistan in June. Reports also highlighted that Hindus in the Sindh province were being tortured, their houses were vandalised and forcibly taken, and a Hindu boy was kidnapped for refusing to convert. They were told to convert if they wanted to get their houses back. 
 
-On the whole, religious minorities are facing great persecution in Pakistan and this is deeply troubling. I seek your assistance on the matter and I sincerely hope that you can reach out to the Pakistani government in order to help those facing persecution. 
+     On the whole, religious minorities are facing great persecution in Pakistan and this is deeply troubling. I seek your assistance on the matter and I sincerely hope that you can reach out to the Pakistani government in order to help those facing persecution. 
 
-Thank you for your attention, and I hope to hear from you soon.
+     Thank you for your attention, and I hope to hear from you soon.
 
 
-Best Regards, 
+     Best Regards, 
 
