@@ -11,7 +11,7 @@ I'm Ridhi, a Kashmiri freelance journalist studying the cultural studies and lin
 
 ### Contact me
 
-[@ridhi.rebuts](https://www.instagram.com/ridhi.rebuts/)
+[@ridhirebuts](https://www.instagram.com/ridhirebuts/)
 
 ### Drop Me a Line, Let Me Know What You Think
 <form name="submit-to-google-sheet" >
