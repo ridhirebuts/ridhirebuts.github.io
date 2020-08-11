@@ -5,7 +5,7 @@ layout: default
 ---
  <style>
      #axbuttons{
-  background-color: 	#ff9b9b;
+  background-color: 	#ff1329;
   color:gray;
   padding: 14px 20px;
   margin: 8px 0;
