@@ -7,8 +7,7 @@ layout: default
      #axbuttonstwo{
   background-color: 	#ff1329;
   color:white;
-  padding: 14px 20px;
-  margin: 8px 0;
+
   border: none;
   cursor: pointer;
   width: 100%;
