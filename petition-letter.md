@@ -45,7 +45,7 @@ Note : Please use a mobile/smartphone to email this petiton. The link is non-fun
   hello@equalitylabs.org,
   sasi.info.nyc@gmail.com
   
-  **Email Content:**
+  **Email:**
   
   To whom it may concern, 
 
