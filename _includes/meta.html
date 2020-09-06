@@ -2,6 +2,20 @@
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+  <meta name="author" content="{{ site.name }}" />
+<meta name="theme-color" content="#A1D9E2" />
+<meta property="og:image" content="/images/icon.png">
+<meta property="twitter:image" content="/images/icon.png">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177372348-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177372348-1');
+</script>
 
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
@@ -10,11 +24,10 @@
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
     {% endif %}
-    <meta name="author" content="{{ site.name }}" />
-<meta name="theme-color" content="#A1D9E2" />
+  
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
-<meta property="og:image" content="/images/icon.png">
+
     <meta property="twitter:title" content="{{ page.title }}" />
-<meta property="twitter:image" content="/images/icon.png">
+
     {% endif %}
