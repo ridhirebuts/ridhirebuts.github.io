@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Etymology: Countries With Sanskrit Names
+title: Etymology | Countries With Sanskrit Names
 ---
 Sanskrit is well-known to have had a significant impact on Asia, and it still lives on in the form of countries’ names. Here’s a brief list:
 
