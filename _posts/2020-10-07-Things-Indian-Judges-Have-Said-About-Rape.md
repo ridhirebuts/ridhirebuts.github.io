@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Things Indian Judges Have Said About Rape Victims
+title: Things Indian Judges Have Said About Rape 
 ---
 
-Apprehending those accused of rape is hard enough as it is, but sometimes judges become another obstacle. Here's some of the things Indian judges have said about rape victims:
+Apprehending those accused of rape is hard enough as it is, but sometimes judges become another obstacle. Here's some of the things Indian judges have said about rape:
 
 “Of late this court has experienced a trend where the girl says that the boy took her to a room, applied vermilion on her forehead, put garland around her neck and declared that they are now husband and wife. Then they indulge in sexual intercourse with each other, with the consent of the girl and later on the girl alleges rape on the false assurance of marriage. This is a very disturbing trend… They voluntarily elope with their lovers to explore the greener pasteurs of bodily pleasure and on return to their homes, they conveniently fabricate the story of kidnap and rape in order to escape scolds and harsh treatment from the parents... The girls are morally and socially bound not to indulge in sexual intercourse before a proper marriage and if they do so, it would be to their peril and they cannot be heard to cry later on that it was rape.”
 
