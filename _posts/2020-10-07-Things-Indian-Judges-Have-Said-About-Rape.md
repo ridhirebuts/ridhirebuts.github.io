@@ -80,8 +80,9 @@ The Supreme Court would later overturn the High Court’s order and remove the i
 
   
 
-[State Of Maharashtra And Another vs Madhukar Narayan Mardikar](https://indiankanoon.org/doc/524900/)
+-   [State Of Maharashtra And Another vs Madhukar Narayan Mardikar](https://indiankanoon.org/doc/524900/)
 
+  
   
 
 “The learned Sessions Judge found that there was no satisfactory evidence to prove that Mathura was below 16 years of age on the date of the occurrence. He further held that she was "a shocking liar" whose testimony "is riddled with falsehood and improbabilities''. But he observed that "the farthest one can go into believing her and the corroborative circumstances, would be the conclusion that while at the Police Station she had sexual intercourse and that, in all probability, this was with accused No. 2."... He further observed: "Finding Nunshi angry and knowing that Nunshi would suspect something fishy, she (Mathura) could not have very well admitted that of her own free will, she had surrendered her body to a Police Constable. The crowd included her lover Ashok, and she had to sound virtuous before him. This is why-this is a possibility-she might have invented the story of having been confined at the Police Station and raped by accused No.”
