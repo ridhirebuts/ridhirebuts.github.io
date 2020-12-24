@@ -3,18 +3,21 @@ layout: post
 title: Petition | Save Jarwas
 category: petition
 ---
+
 <script>
-function copy(element_id){
-  var aux = document.createElement("div");
-  aux.setAttribute("contentEditable", true);
-  aux.innerHTML = document.getElementById(element_id).innerHTML;
-  aux.setAttribute("onfocus", "document.execCommand('selectAll',false,null)"); 
-  document.body.appendChild(aux);
-  aux.focus();
+ffunction copy(selector){
+  var $temp = $("<div>");
+  $("body").append($temp);
+  $temp.attr("contenteditable", true)
+       .html($(selector).html()).select()
+       .on("focus", function() { document.execCommand('selectAll',false,null); })
+       .focus();
   document.execCommand("copy");
-  document.body.removeChild(aux);
+  $temp.remove();
+
 }
  </script>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
  <style>
      #axbuttonstwo{
   background-color: 	#ff1329;
@@ -41,14 +44,14 @@ function copy(element_id){
 3. You can edit the email content to add personalised messages.
 4. (Optional) Post a Instagram story of your email and tag @ridhirebuts and @amitshahofficial
         
-<button onclick="copy('demo')">Copy Keeping Format</button> 
+<button onclick="copy('#demo')">Copy Keeping Format</button> 
 
 <div id="target" contentEditable="true"></div>
   **Recipents:**    
  CONTACT@AMITSHAH.CO.IN
   
   **Email:**
- <p id="demo">
+<p id="demo">
 <b>Shri Amit Shah</b>
 
 Minister of Home Affairs  
