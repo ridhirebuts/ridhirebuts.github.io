@@ -32,21 +32,18 @@ function copy(selector){
      #axbuttonstwo:hover{
         opacity: 1;
      }
-     #target {
-  width:400px;
-  height:100px;
-  border:1px solid #ccc;
-}
+
     </style>
 ## Instructions
-1. Copy the E-mail text below.
-2. Send it to recipent using your preffered email app (e.g Gmail)
-3. You can edit the email content to add personalised messages.
-4. (Optional) Post a Instagram story of your email and tag @ridhirebuts and @amitshahofficial
+1. Copy the E-mail text below( Use the Copy E-mail text button).
+2. Use subject - Petition letter to Save Jarwas
+3. Send it to recipent - CONTACT@AMITSHAH.CO.IN - using your preffered email app (e.g Gmail)
+4. You can edit the email content to add personalised messages.
+5. (Optional) Post a Instagram story of your email and tag @ridhirebuts and @amitshahofficial
         
 <button onclick="copy('#demo')">Copy</button> 
 
-<div id="target" contentEditable="true"></div>
+
   **Recipents:**    
  CONTACT@AMITSHAH.CO.IN
   
