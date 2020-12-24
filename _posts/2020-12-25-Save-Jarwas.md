@@ -29,6 +29,11 @@ function copy(element_id){
      #axbuttonstwo:hover{
         opacity: 1;
      }
+     #target {
+  width:400px;
+  height:100px;
+  border:1px solid #ccc;
+}
     </style>
 ## Instructions
 1. Copy the E-mail text below.
@@ -36,12 +41,14 @@ function copy(element_id){
 3. You can edit the email content to add personalised messages.
 4. (Optional) Post a Instagram story of your email and tag @ridhirebuts and @amitshahofficial
         
-        
+<button onclick="copy('demo')">Copy Keeping Format</button> 
+
+<div id="target" contentEditable="true"></div>
   **Recipents:**    
  CONTACT@AMITSHAH.CO.IN
   
   **Email:**
- 
+ <p id="demo">
 <b>Shri Amit Shah</b>
 
 Minister of Home Affairs  
@@ -69,3 +76,4 @@ Yours sincerely,
 
 Best Regards, 
 __Your Name__
+</p>
