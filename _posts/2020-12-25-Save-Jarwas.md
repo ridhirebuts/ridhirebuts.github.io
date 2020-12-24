@@ -46,13 +46,13 @@ function copy(selector){
 4. You can edit the email content to add personalised messages.
 5. (Optional) Post a Instagram story of your email and tag @ridhirebuts and @amitshahofficial
         
-<button id="#axbuttonstwo"  onclick="copy('#demo')">Copy</button> 
+<a id="#axbuttonstwo" onclick="copy('#demo')">Copy</a> 
 
 
   **RECIPENT:**    
  CONTACT@AMITSHAH.CO.IN
   
-  **EMAIL:**
+  **EMAIL CONTENT:**
 <p id="demo">
 <b>Shri Amit Shah</b>
 <br><br>
