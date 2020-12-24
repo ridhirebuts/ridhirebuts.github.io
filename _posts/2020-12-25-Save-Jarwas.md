@@ -52,11 +52,11 @@ India
 
   
 
-*_December 24, 2020_*
+<i>December 24, 2020</i>
 
   
 
-**Dear Shri Shah,**
+<b>Dear Shri Shah,</b>
 
 I am extremely concerned about the Jarawa tribe of the Andaman Islands. The Supreme Court of India ordered in 2002 that the road running through the Jarawa's reserve should be closed; yet it remains open. The road brings the tribe into regular contact with settlers and tourists who treat the Jarawa like animals in a human safari park.
 
@@ -68,3 +68,4 @@ Yours sincerely,
 
 
 Best Regards, 
+__Your Name__
