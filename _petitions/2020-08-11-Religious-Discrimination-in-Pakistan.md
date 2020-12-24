@@ -1,7 +1,6 @@
 ---
-title: Religious Discrimination in Pakistan
-permalink: /petition-letter/
 layout: post
+title: Religious Discrimination in Pakistan
 ---
  <style>
      #axbuttonstwo{
