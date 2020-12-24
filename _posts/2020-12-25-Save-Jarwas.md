@@ -44,10 +44,10 @@ function copy(selector){
 <button id="#axbuttonstwo"  onclick="copy('#demo')">Copy</button> 
 
 
-  **Recipents:**    
+  **RECIPENT:**    
  CONTACT@AMITSHAH.CO.IN
   
-  **Email:**
+  **EMAIL:**
 <p id="demo">
 <b>Shri Amit Shah</b>
 <br><br>
