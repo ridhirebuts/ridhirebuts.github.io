@@ -42,7 +42,7 @@ function copy(selector){
 5. (Optional) Post a Instagram story of your email and tag @ridhirebuts and @amitshahofficial
         
 <a id="#axbuttonstwo" onclick="copy('#demo')">Copy Email to clipboard</a> 
-
+NOTE : This button doesn't work in Firefox and Safari. You have to manually select and copy everything below Email content.
 
   **RECIPENT:**    
  CONTACT@AMITSHAH.CO.IN
