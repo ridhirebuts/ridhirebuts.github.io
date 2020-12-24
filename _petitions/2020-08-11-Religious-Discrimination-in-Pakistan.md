@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Religious Discrimination in Pakistan
+category: petition
 ---
  <style>
      #axbuttonstwo{
