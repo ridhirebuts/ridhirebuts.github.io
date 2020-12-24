@@ -5,7 +5,7 @@ category: petition
 ---
 
 <script>
-ffunction copy(selector){
+function copy(selector){
   var $temp = $("<div>");
   $("body").append($temp);
   $temp.attr("contenteditable", true)
@@ -44,7 +44,7 @@ ffunction copy(selector){
 3. You can edit the email content to add personalised messages.
 4. (Optional) Post a Instagram story of your email and tag @ridhirebuts and @amitshahofficial
         
-<button onclick="copy('#demo')">Copy Keeping Format</button> 
+<button onclick="copy('#demo')">Copy</button> 
 
 <div id="target" contentEditable="true"></div>
   **Recipents:**    
