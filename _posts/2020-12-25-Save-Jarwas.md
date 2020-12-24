@@ -53,30 +53,30 @@ function copy(selector){
   **Email:**
 <p id="demo">
 <b>Shri Amit Shah</b>
+<br><br>
+Minister of Home Affairs <br> 
+North Block<br>  
+Central Secretariat  <br>
+New Delhi – 110001  <br>
+India<br>
+<br><br><br>
+  
 
-Minister of Home Affairs  
-North Block  
-Central Secretariat  
-New Delhi – 110001  
-India
+<i>December 24, 2020</i><br>
 
   
 
-<i>December 24, 2020</i>
+<b>Dear Shri Shah,</b><br><br>
 
-  
+I am extremely concerned about the Jarawa tribe of the Andaman<br> Islands. The Supreme Court of India ordered in 2002 that the road<br> running through the Jarawa's reserve should be closed; yet it remains<br> open. The road brings the tribe into regular contact with settlers and<br> tourists who treat the Jarawa like animals in a human safari park.<br><br>
 
-<b>Dear Shri Shah,</b>
+Poachers are also entering the Jarawa’s forest, hunting the animals the<br> tribe relies on. Both tourists and poachers risk bringing disease,<br> violence and exploitation to the tribe. Such contact could have<br> devastating consequences for the Jarawa, putting their survival as a tribe at risk.<br><br>
 
-I am extremely concerned about the Jarawa tribe of the Andaman Islands. The Supreme Court of India ordered in 2002 that the road running through the Jarawa's reserve should be closed; yet it remains open. The road brings the tribe into regular contact with settlers and tourists who treat the Jarawa like animals in a human safari park.
+I urge you to ensure that the road is closed to all tourists, who must be<br> obliged to use the alternative sea route instead,  and the Jarawa<br> reserve is protected. The Jarawa must be allowed to make their own<br> decisions about their future, in their own time.<br><br>
 
-Poachers are also entering the Jarawa’s forest, hunting the animals the tribe relies on. Both tourists and poachers risk bringing disease, violence and exploitation to the tribe. Such contact could have devastating consequences for the Jarawa, putting their survival as a tribe at risk.
-
-I urge you to ensure that the road is closed to all tourists, who must be obliged to use the alternative sea route instead,  and the Jarawa reserve is protected. The Jarawa must be allowed to make their own decisions about their future, in their own time.
-
-Yours sincerely,
+Yours sincerely,<br>
 
 
-Best Regards, 
+Best Regards, <br>
 __Your Name__
 </p>
