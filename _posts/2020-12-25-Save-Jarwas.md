@@ -3,7 +3,18 @@ layout: post
 title: Petition | Save Jarwas
 category: petition
 ---
-
+<script>
+function copy(element_id){
+  var aux = document.createElement("div");
+  aux.setAttribute("contentEditable", true);
+  aux.innerHTML = document.getElementById(element_id).innerHTML;
+  aux.setAttribute("onfocus", "document.execCommand('selectAll',false,null)"); 
+  document.body.appendChild(aux);
+  aux.focus();
+  document.execCommand("copy");
+  document.body.removeChild(aux);
+}
+ </script>
  <style>
      #axbuttonstwo{
   background-color: 	#ff1329;
@@ -30,8 +41,8 @@ category: petition
  CONTACT@AMITSHAH.CO.IN
   
   **Email:**
-**  
-**Shri Amit Shah****  
+ 
+<b>Shri Amit Shah</b>
 
 Minister of Home Affairs  
 North Block  
