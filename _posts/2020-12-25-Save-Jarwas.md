@@ -41,7 +41,7 @@ function copy(selector){
 4. You can edit the email content to add personalised messages.
 5. (Optional) Post a Instagram story of your email and tag @ridhirebuts and @amitshahofficial
         
-<button id="#axbuttonstwo" onclick="copy('#demo')">Copy</button> 
+<button id="#axbuttonstwo" onclick="copy('#demo')">Copy Email to clipboard</button> 
 
 
   **RECIPENT:**    
