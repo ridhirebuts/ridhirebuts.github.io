@@ -100,7 +100,7 @@ It's hard to stay positive amongst the maelstrom of bad news so this is our hump
     
 47.  ## Movement restrictions and a significant slowdown of social and economic activities resulted in a tremendous improvement in air quality in many cities.
     
-48.  The world’s biggest superpower got its first female vice-president.
+48.  The world’s biggest economy got its first female vice-president.
     
 49.  Major companies like 3M and Apple pooled resources or shifted production to make millions of masks.
     
