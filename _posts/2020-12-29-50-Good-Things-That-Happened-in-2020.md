@@ -3,6 +3,9 @@ layout: post
 title: 50 Good Things That Happened in 2020 
 ---
 
+It's hard to stay positive amongst the maelstorm of bad news so this is our humple attempt at lifting your spirits. 
+
+
 1.  ## Carbon emissions fell by the largest amount ever recorded (7%).
     
 2.  ## 2 million people planted 250 million trees in one weekend in Uttar Pradesh, India.
