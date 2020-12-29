@@ -3,7 +3,7 @@ layout: post
 title: 50 Good Things That Happened in 2020 
 ---
 
-It's hard to stay positive amongst the maelstorm of bad news so this is our humple attempt at lifting your spirits. 
+It's hard to stay positive amongst the maelstrom of bad news so this is our humple attempt at lifting your spirits. 
 
 
 1.  ## Carbon emissions fell by the largest amount ever recorded (7%).
