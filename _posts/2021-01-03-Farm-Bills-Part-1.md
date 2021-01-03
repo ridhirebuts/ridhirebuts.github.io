@@ -56,7 +56,7 @@ As of 2015, India was already entirely agriculturally self-sufficient. Yet, many
 The impact left over the half a century was that half of the country’s cultivable lands had become saline with excessive use of chemicals and the productivity was coming down drastically.
 
   
-  These 5 problems will form our understanding for analysing the farm bills in our new post. 
+  These 5 problems will form our understanding for analysing the farm bills in our next post. 
 
 **Citations**:
 
