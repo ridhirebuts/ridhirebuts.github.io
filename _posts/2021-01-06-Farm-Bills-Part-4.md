@@ -26,7 +26,7 @@ Intended Benefits:
     
 8.  To provide an effective dispute resolution mechanism.
     
-9.  To end the monopsony at mandis. Previously, what would often occur at mandis was that traders would form a cartel and agree upon a price – and farmers would either have to sell at this price or MSP (assuming that MSP is actually functional in this mandi). The entrance of private firms was intended to create greater competition, thereby leading to higher prices. However, it is possible that the monopsony may just expand.
+9.  To end the monopsony at mandis. Previously, what would often occur at mandis was that traders would form a cartel and agree upon a price – farmers would then either have to sell at this price or MSP (assuming that MSP is actually functional in this mandi). The entrance of private firms was intended to create greater competition, thereby leading to higher prices. However, it is possible that the monopsony may just expand.
     
 
   
