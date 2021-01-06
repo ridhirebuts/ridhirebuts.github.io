@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Farm Bills Part 3 
+title: Farm Bills Part 4
 ---
 
 Looking into the intended benefits of the bills, potential drawbacks identified by the opposition as well as some key issues that the bills do not address. 
