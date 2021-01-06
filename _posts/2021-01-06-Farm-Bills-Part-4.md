@@ -18,7 +18,7 @@ Intended Benefits:
     
 4.  The risk of market unpredictability would be transferred to sponsors.
     
-5.  Farmers can enter into a contract with agri-business firms, wholesalers, retailers or exporters for sale of future produce at a pre-agree price.
+5.  Farmers can enter into a contract with agri-business firms, wholesalers, retailers or exporters for sale of future produce at a pre-agreed price.
     
 6.  Farmers would no longer need to engage in direct marketing (and no longer have to engage with middlemen and pay some commission), and could receive better prices for their harvest.
     
