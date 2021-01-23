@@ -19,11 +19,11 @@ category: petition
         opacity: 1;
      }
     </style>
-    The New York Senate has proposed a bill that blatantly 
-    ignores and marginalizes minorities. 
-    Senate Bill S2727 violates the equal
-    representation that all Americans, 
-    including minorities, deserve to have.
+The New York Senate has proposed a bill that blatantly 
+ignores and marginalizes minorities. 
+Senate Bill S2727 violates the equal
+representation that all Americans, 
+including minorities, deserve to have.
 
 ## Instructions
 Note : Please use a mobile/smartphone to email this petiton. The link is non-functional in dekstop/laptop.
