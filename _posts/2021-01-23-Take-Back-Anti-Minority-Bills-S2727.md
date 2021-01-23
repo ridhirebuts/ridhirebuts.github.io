@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Petition | Take Back Anti-Minority Bill S2727
 category: petition
