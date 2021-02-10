@@ -3,6 +3,8 @@ layout: post
 title: Twitter vs. Government of India
 ---
 
+Twitter is in hot soup with the government. Here's why:
+
 The faceoff with Twitter started on 1st Feb, when the IT ministry directed Twitter to block about 100 accounts and 150 tweets related to the farmer protests. In its notice to Twitter, the government stated that the accounts and tweets in question were instigating and encouraging people to engage in violent acts.
 
   
