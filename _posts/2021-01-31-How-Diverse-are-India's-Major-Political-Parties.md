@@ -3,6 +3,8 @@ layout: post
 title: How Diverse are India's Major Political Parties
 ---
 
+Some insight into how diverse India's major political parties look like on paper.
+
 
 |  | Women| Muslims| Dynasts (from political families)  |  Graduate degree and higher |  Percentage with declared criminal cases |  **Crorepati** |
 |---|---|---|---|---|---|---|
