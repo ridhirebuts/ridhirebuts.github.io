@@ -1,3 +1,8 @@
+---
+layout: post
+title: The Letters of Indian Soldiers during WW1
+---
+
 Some of the letters written by the Indian soldiers involved in World War 1:
 
 “I have been wounded twice. And now this is the third time that I am being sent to the trenches… The English say that it is all right. How can it be all right! As long as one is unhurt, so long they will not let one off. If Parmeshwar allows, I will escape but the butcher does not let the goat escape.”
