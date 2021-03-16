@@ -4,7 +4,7 @@ title: The My Lai Massacre
 ---
 
 
-The My Lai (pronounced ‘me-lie’) Massacre took place on 16th March 1968 during the Vietnam War, which lasted almost 20 years. The War saw heavy American involvement, who saw it as a war against communism (North Vietnam was communist).
+The My Lai (pronounced ‘me-lie’) Massacre took place on 16th March 1968 during the Vietnam War, which lasted almost 20 years. The war saw heavy American involvement, who saw it as a war against communism (North Vietnam was communist).
 
   
 
