@@ -4,8 +4,6 @@ permalink: /recommend/
 layout: default
 ---
 
-<blockquote class="embedly-card"><h4><a href="https://www.huffpost.com/entry/india-as-lynchistan-a-rear-view-analysis_b_597b57d7e4b06b305561cfe8">India as "Lynchistan": A Rear-View Analysis</a></h4><p>Consider the following thought experiment. Suppose the Government of India drastically alters its own policies and messaging regarding the exportation, transport, and slaughter of cattle. Suppose that after this set of policies goes into effect, there are a dozen or so attacks on individuals with cattle allegedly featuring prominently in the motive.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://medium.com/@vamseejuluri/an-analysis-of-the-new-york-timess-coverage-of-the-pulwama-attack-and-its-aftermath-how-8e675ac668bd">An Analysis of The New York Times's Coverage of the Pulwama Attack and its Aftermath: How...</a></h4><p>An Analysis of The New York Times's Coverage of the Pulwama Attack and its Aftermath: How Headlines Are Used to Mislead Readers, Blame the Victims, and Clean Up After Mass Murder The New York Times has published (online and/or in print) over two dozen pieces of reportage, analysis, editorial, and opinion on India and Pakistan since the February 14, 2019 attack on an Indian Central Reserve Police Force (CRPF) bus in Pulwama district in Kashmir that killed 40 passengers.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
