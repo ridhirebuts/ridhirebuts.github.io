@@ -20,10 +20,6 @@ layout: default
 <blockquote class="embedly-card"><h4><a href="https://blog.usejournal.com/the-pulitzer-is-a-portal-b157bc0f6850">The Pulitzer is a Portal</a></h4><p>In particular, one photograph from the set (see left, above)- that of a "masked Kashmiri protester jump[ing] on the bonnet" of a J&K police vehicle provides an interesting parallel to at least two other Pulitzer Prize-winning photographs from previous years.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://www.hinduamerican.org/blog/the-washington-posts-kashmir-coverage-is-neither-fair-nor-accurate-nor-comprehensive/">The Washington Post's Kashmir coverage is neither fair, nor accurate, nor comprehensive - Hindu American Foundation</a></h4><p>This past weekend a group of Kashmir Pandits protested outside the Washington Post offices in Washington, DC. They decried as one-sided the coverage by the Post of the ongoing tense situation in Kashmir resulting from the Government of India repealing two articles of the Indian constitution, which ended the semi-autonomous status of the state of Jammu and Kashmir.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-
 <blockquote class="embedly-card"><h4><a href="http://ikashmir.net/pastpresent/index.html">Kashmir: Past and Present by Prof. Mohan Lal Koul</a></h4><p>For centuries Kashmir has been a fascinating subject for authors and analysts. Volumes have been written about its multi-taceted aspects. But since the division of the Indian subcontinent and emergence of independent states of India and Pakistan, the predominent theme of such books has been political.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
