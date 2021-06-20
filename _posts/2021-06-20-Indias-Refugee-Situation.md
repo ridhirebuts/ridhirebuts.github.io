@@ -1,6 +1,6 @@
 ---
 layout: post
-title: World Refugee Day: India's Refugee Response
+title: World Refugee Day 
 ---
 
 
