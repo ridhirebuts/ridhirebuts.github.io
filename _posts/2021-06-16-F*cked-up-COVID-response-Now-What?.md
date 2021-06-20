@@ -3,6 +3,8 @@ layout: post
 title: F**ked up COVID Response. Now What?
 ---
 
+What is the government doing for those who have lost loved ones to COVID-19?
+
 For children who have lost both parents or guardians to COVID-19:
 
   
